@@ -179,7 +179,7 @@
   box-shadow: 0 8px 32px #4882c5;
   color: #ffffff;
   z-index: 2;
-  background-image: url(Assets/cube-pattern.png);
+  background-image: url("Assets/cube-pattern.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
